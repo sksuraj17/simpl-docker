@@ -1,1 +1,1 @@
-# simpl-docker
+Creating a simple Dockerfile to achieve containerization.
